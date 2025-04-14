@@ -28,3 +28,5 @@ phase that is helpful for organizations to always stay protected
 from these attacks. Organizations use various security tools and
 strategic thinking to recover their business information from
 attackers
+
+## [Report] (https://github.com/ajnasmohammed/Cyber-Kill-Chain/blob/main/Cybert%20Kill%20Chain1-1.pdf)
